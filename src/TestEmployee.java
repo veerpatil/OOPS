@@ -4,6 +4,7 @@ class Employee
 	int id;
 	float salary;
 	String name;
+	String GitDemo;
 	void InserRecord(int id, float salary, String name) {
 		
 		this.id = id;
